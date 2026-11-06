@@ -1,0 +1,3 @@
+*Malmo* was a [[Reunification Alliance]] exploration and survey ship, operated by the Exploration Board of the [[Reunification Navy]]. In 3011, *Malmo* was destroyed by [[Kharak-Ghar]] naval forces shortly after making first contact, sparking the outbreak of the [[First Kharak-Ghar War]] and the centuries of hostility that would follow. 
+
+*Malmo* was a one-off ship, converted from a [[Type-7 Freighter]] to a long-range exploration ship by improving the drive system and replacing much of the cargo bay with additional fuel tanks, crew stores, and an enlarged [[Otherlight Shift Module]]. 

@@ -1,0 +1,12 @@
+JT is one of [[High Atlantic]]'s most prominent [[Brokers]] and the leader of the [[Ghosts of Cain]], known for his repeated successes against much wealthier and more powerful opponents. In recent years, he has also become increasingly involved with the [[High Atlantic Resistance Movement]], cultivating close relations with [[Mr Michigan]] and allying the Ghosts with [[Hacienda]]. 
+
+JT was badly mutilated by a member of the [[Interplanetary Slashers]] when he was just fourteen years old. The attack horrifically scarred his face and forced him to wear a special helmet to hold his ruined face together. Despite since acquiring more than enough money to undergo reconstructive treatment, he chose to retain his mask as a reminder of the event that has motivated him throughout his life. 
+
+It is thanks to the efforts of JT and his allies in the 3330s that the Slashers' presence in [[Neo-Atlantica]] is substantially reduced compared both to the rest of the planet and other [[Non-aligned Worlds]], as he bested them in a long and bloody gang war, albeit at the expense of much of the Ghosts' influence as well. JT has since rebuilt his organisation, and is always gunning to bring down another major gang. 
+
+**Abilities**
+JT is cold, calculating, and eminently careful, the kind of man whose contingencies have contingencies. He is also known for having safehouses and getaway vehicles planted throughout the city in case of his emergencies. 
+
+JT is highly unpopular with many of his underworld peers, and thus lacks the ability to play rivals against each other in the same way as many of his contemporaries. Instead, he makes do with a hard core of loyal followers, several strong, battle-tested alliances, and his outstanding tactical acumen. Not many people like him, but those who do will run through walls, and crossing him is often likely to put you in the sights of some of the world's most dangerous assassins. 
+
+JT is also a competent combatant in his own right, despite the significant difficulties imposed by his mask. He is a skilled user of a [[Neural Link]] and a capable hacker. For kinetic action he favours keeping his foes at arms length with long-range rifles, but his signature weapon is a [[Derrier LP-4]], whose distinctively sharp report has ended many meetings. 

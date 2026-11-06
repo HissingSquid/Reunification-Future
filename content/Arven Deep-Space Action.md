@@ -1,0 +1,59 @@
+The Arven Deep-Space Action was a major space battle of the [[Sixth Kharak-Ghar War]], fought between the [[Reunification Navy]] ([[Reunification Alliance]]) and the [[Starside War Council]] ([[Kharak-Ghar Republic of Militant Citizens]]). Occurring over four days in 3364, it is thought to be the largest single fleet action in history. The mass deployed to the battlespace was unheard of prior to this engagement, with the forces assembled by each side individually dwarfing the combined strength of any prior battle, and indeed almost every battle recorded since. 
+
+The exceptional size of the engagement is most-commonly attributed to the religious significance of [[Arven]] to the [[Kharak-Ghar]], who had deployed a [[War Chaplain]] to the surface action. 
+
+**Prelude - Operation Fulcrum**
+ Following the dramatic success of the [[First Invasion Wave]], Kharak-Ghar forces were high on confidence and keen to proceed with the [[Second Invasion Wave]] ahead of their planned schedule. This meant that mopping-up operations were still taking place when their frontline War Clusters began advancing from the frontier region into Alliance space proper. Securing this second line of worlds was the [[Kharak-Ghar Republic of Militant Citizens]]' primary war goal, and they initially enjoyed similar successes as during their initial assault. 
+
+However, the [[Reunification Alliance]] had by this point managed to assemble sufficient forces in theatre to attempt to re-take the initiative. They intended to rapidly pivot from sustained defence-in-depth to major offensive action, with the goal of destroying a significant portion of the invasion wave, putting the Kharak-Ghar on the back foot, and setting up a subsequent series of follow-up attacks that might regain much of the lost ground. 
+
+The plan, dubbed [[Operation Fulcrum]], was to continue delaying operations on the other attacked worlds, while bringing overwhelming force to bear at a single point and drawing the Kharahk-Ghar into a slugging match they could not win. While the Kharak-Ghar enjoyed significant overall superiority in-atmosphere, they could not hope to contend with the Reunification Navy in a straight fight, and knew it. Fulcrum needed to force them into the sort of large-scale naval engagement they desperately sought to avoid, facilitating a decisive starside victory that would cripple strategic mobility and enable Alliance counter-attacks.
+
+Arven was to be the fulcrum on which the Alliance warplan turned. A highly-developed world, it was selected because of its heavy initial defences and the relative ease of subsequent resupply. The Alliance needed to present their opponents with a fight that would be long, tough, and gruelling, but which they felt that they could ultimately win. This would hopefully compel them to send a War Chaplain to the surface, at which point they would be fully committed and the trap could be sprung - the Kharak-Ghar could not abandon a prominent religious leader to die. In addition to the material benefits of forcing a naval engagement, the Alliance also hoped that killing a Chaplain would have catastrophic morale impacts. 
+
+In this, the Alliance was banking on the flaws in Kharak-Ghar intelligence. They would assume that the RN would try to support [[Alliance Combat Forces]] across the entire front, and lacked the depth of vision to verify this. Hence they would gamble they could win before the Alliance could concentrate forces, or even that the Alliance would be too fearful of losing elsewhere to do so. This gamble forced them into exactly the sort of fight they were desperately trying to avoid. 
+
+**Land Action: The Arven Campaign**
+The [[Arven Campaign]] was to be one of the longest and bloodiest of the war, as the initial defenders were repeatedly reinforced by additional manpower, including the first deployments of many of the elite formations that would later form the [[Special Assault Army Groups]]. This was necessary to draw the Kharahk-Ghar in ever-deeper, compelling them to commit as many forces as possible and, hopefully, deploy the wave's War Chaplain. 
+
+After fourteen months of vicious near-stalemate, Alliance commanders were beginning to think the Kharak-Ghar were wise to the game. It appeared the Chaplain was not coming, and the war planners began to resign themselves to the fact that any victory would have to be earned by gruelling incremental advance rather than decisive action. 
+
+Then, in mid-3364, Alliance intelligence intercepted coded transmissions on the Kharak-Ghar religious channels. On the last day of Eightmonth, the [[43rd War Cluster]] jumped into the system, carrying in its assault group [[War Chaplain Commoroh]] and his retinue.
+
+**Initial Naval Manoeuvres**
+Four days after Commoroh made landfall, the Alliance [[7th Battlefleet]] slipped into the system to reinforce the local units, heavily depleted by their hit-and-run campaign against the newly-arrived War Cluster. 
+
+The War Cluster avoided battle and withdrew. Meanwhile, the RN began pulling in assets from across deployments. [[3rd Battlefleet]] joined the 7th in system, while [[1st Battlefleet]], [[4th Battlefleet]], and [[14th Battlefleet]], were held concealed in nearby star photospheres, about a week-and-a-half from the action. 
+
+Three weeks later, the 43rd War Cluster returned, supported by the starside combat elements of the [[41st War Cluster]] and the full-strength of the [[17th Auxiliary Starside Cohort]]. This force attempted to break the Alliance blockade, resulting in the [[Second Space Battle over Arven]]. The Kharak-Ghar forces were roundly defeated by superior Alliance warships and tactics, and their crippled force beat a hasty retreat. 
+
+**The Blockade**
+Following this victory, the Alliance firmly established their blockade over Arven, starving the Kharak-Ghar ground forces of supply, hammering them with unopposed orbital fire, and pouring in reinforcements. 
+
+Meanwhile, the Kharak-Ghar set about gathering every spare warship they had available, intent on breaking the blockade and pulling Commoroh out. Unfortunately for them, Alliance SIGINT operations conducted by the frigate *[[Nightingale]]* gave them prior warning, and the RN set about preparing the largest concentration of starships they had ever assembled. 
+
+This was not without issues. The RN was forced to pull ships from countless other duties, leaving huge sections of the frontiers without patrols and vast areas of the interior without heavy unit cover. They could not maintain such a high concentration of forces for long - the battle needed to come quickly. 
+
+**The Deep-Space Action**
+After three months of blockade, the Kharak-Ghar rescue force jumped in. The starside combat elements of seventeen War Clusters would provide a covering force to hold off large-scale RN attacks, while the ground combat elements of four Clusters were deployed to the surface, screened from small-scale attacks by a further three starside combat elements. Now they knew the Alliance was concentrating strength, the Kharak-Ghar were apparently willing to do the same, committing almost their entire reserve force for this wave. They also intended to pull out Commoroh, with a fast clipper specially prepared for this purpose. 
+
+Unfortunately for them, the equivalent strength of 19 RN Battlefleets was waiting on the other side. The Kharak-Ghar covering force assembled in deep space, some 2500 light-seconds from Arven, while the landing force made its approach. Ordinarily, the RN would engage the covering force to draw attention, before launching a main attack against the close screens in the hope of getting out before the covering force could recover to repel them. In this case, though, their main goal was destroying as many warships as possible, not stopping the landing, and they committed almost everything to the deep-space action. Harassing the landing force would be left to the local light forces. 
+
+Contact was cataclysmic, as almost ten thousand warships engaged each other near-simultaneously, unleashing the combined weapons energy output of a small star. There are countless reports of the action, but the narrative is near impossible to follow, with the engagement reduced to a mess of overlapping [[Defence Grid|Defence Grids]] and constant weapons fire. A full play-by-play of the action has hence been deemed beyond the scope of this article. Suffice to say that Defence Grid combat logs from participant ships reached hundreds of thousands of entries, and many warships ran entirely out of ammunition - an almost unheard-of occurrence.  
+
+By the end of the first day, it was more or less honours even. By the end of the second, the Alliance's superiority in tactics, technology, and command began to tell, and by the end of the third day it was over save the formalities. Losses to both sides had been catastrophic, but the RN had got off decidedly better. Losing nearly 40% of your ships in one engagement makes for bad reading, to be sure, but for the Kharak-Ghar covering force that number was closer to 100%. 
+
+Meanwhile, Commoroh dallied on the surface, reluctant to abandon his post. In so doing, he threw away his chance to escape. Alliance intelligence tracked the clipper, and as it loitered on the ground, artillery and airstrikes attempted to disable it. When this failed, it was handed off to the Nightwatch, who prepared a special forces team led by the legendary [[Hawk Argill]]. 
+
+Commoroh finally took off on the fourth day, realising that his window for escape was closing rapidly. By this point, RN forces were heavily engaging the close screens too, and his clipper was forced to take a circuitous route to avoid interdiction. When it finally reached a clean jump point, it was interdicted almost immediately by *[[Knife in the Dark]]*, a Watch-ship lurking unseen nearby. The clipper was boarded, and Commoroh was killed in the ensuing firefight. 
+
+At the end of the fourth day, the Kharak-Ghar began an unceremonious retreat. With Commoroh dead, they had no reason to continue fighting, and began pulling their troops out. This led to what Alliance personnel began calling "the best sport of the war", as they ran down retreating forces on land, in the air, and in space. 
+
+By the end, the Kharak-Ghar invasion force had been almost totally annihilated, shattering the fighting strength of the Second Invasion Wave and opening the door for the planned counter-offensive. It would begin the following year, starting the drive towards the end of the war. 
+
+**Aftermath**
+In most wars it is difficult to pick the precise turning point, that decisive moment that started the course towards war's end. Scholars of the Sixth Kharak-Ghar War have no such problems. The Arven Deep-Space Action, a rather unassuming name for perhaps the most apocalyptic battle in known history, indisputably set the Alliance on the path to victory. 
+
+Not only did they inflict catastrophic, near-irrecoverable losses on their opponent's atmospheric and starside forces, they also crippled their strategic mobility, crushed their morale, and killed one of their most capable generals. While the speed with which victory followed was perhaps a surprise, as the [[Great Gamble]] of [[Operation Snakebite]] paid off, its inevitability was in little doubt. Alliance forces had almost free reign in reclaiming the territory they had lost to the First Invasion Wave, as they rolled up the front on the Second and began rapidly driving through the feeble and hastily-assembled forces of the [[Third Invasion Wave]]. 
+
+Operation Fulcrum therefore stands as one of the finest examples of operational strategy in modern military history, with the Arven Deep-Space Action its centrepiece and crowning glory - much to the chagrin of the ACF troops that suffered through the associated land campaign. 

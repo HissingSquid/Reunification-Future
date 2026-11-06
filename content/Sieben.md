@@ -1,0 +1,15 @@
+Sieben is a G-Type Star located on the borders between the [[Reunification Alliance]] and the [[Celestian Empire]]. The system contains several human-majority colonies, all of which broke away from the Alliance during the [[Crisis of Faith]] and became independent entities. The most famous of these is the tourist world [[High Atlantic]], which has thrived economically and remains wealthy and influential in interstellar politics. 
+
+[[Pacifica]] and [[New India]] were also prominent colonies prior to their secession, but they have failed to prosper and develop since leaving the Alliance fold and are now relative backwaters. 
+
+**Discovery**
+The Sieben system was discovered by the [[Reunification Navy]] exploration ship *[[Exceed]]* in 3007. The first settlement was a small mining outpost on an icy terrestrial world, dubbed [[New Arctica]]. The system's other three atmospheric terrestrial worlds were all deemed viable for long-term settlement, and the colony ships began to arrive in the 3010s. The settlement process stalled a little during the [[First Kharak-Ghar War]], but by the 3050s the system was developing into a thriving Alliance enclave, replete with several fairly pleasant habitable worlds, a very viable raw-material extraction operation, and an interceptor base. 
+
+It was this prosperity, of course, that disposed the colonies towards breaking away during the Crisis, reluctant to give up the [[Androids|android]] labour that had helped them prosper. The smaller colonies were heavily reliant on the RN and opted to stay in the fold, but the main settled worlds began to secede, and were ultimately lost from the Alliance fold. 
+
+**Post-Crisis History**
+In 3347 Pacifica started the process of re-signing the [[Reunification Alliance Charter]] by enrolling in the [[Alliance Membership Pathway]]. It officially signed the Charter in 3394, and is now a full member of the Alliance once again. New India attempted to follow suit four years later, but failed to qualify and was bumped down to the [[Affiliated Worlds Programme]]. It has made little effort to improve and has remained their ever since. 
+
+A number of the system's smaller colonies did not secede in the Crisis and have remained Alliance members throughout their history. While none of these were ever viable for full-scale colonisation, they did include the [[New Arctica]] mining installations and the interceptor base at [[Sargassa]].
+
+In 3402, popular rebellion on [[High Atlantic]] overthrew the [[Tourist Board]] and instated a democratic government. This coup was was aided by the Reunification Alliance, and the new government immediately enrolled in the Membership Pathway. The world was wealthy and redistribution meant it hit the requirements the same year, and signed the Charter. As such, by the early 3400s, Sieben was once again effectively under the full control of the Reunification Alliance, much to the Celestian's chagrin. 

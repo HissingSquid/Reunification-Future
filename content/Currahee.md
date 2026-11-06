@@ -1,0 +1,7 @@
+Currahee is a medium terrestrial planet directly controlled by the [[Reunification Alliance]]. Shortly after its discovery in 3143, Currahee was given over [[Alliance Combat Forces]] to serve as their primary training world. The planet's wide range of climates and environments, coupled with its difficult terrain, extremes of temperature, and hostility to agriculture make it a perfect place to train atmospheric combat troops for any eventuality. 
+
+Some areas of the world are fairly built-up with training centres, accommodation blocks, and other military installations. However, much of the Southern hemisphere has been left clear to make room for large-scale training exercises, often involving millions of troops and dozens of [[Reunification Navy]] starships. 
+
+Within Alliance culture, 'Currahee' has become a byword for hard work and suffering, and the idiom 'Gone to Currahee' is regularly used to refer to someone going through a rough patch in life. ACF officers are keen to stress that while training on Currahee is harsh and difficult, all efforts are made to treat Alliance troops with respect and dignity, and that it is just a necessary part of readiness for deployment across the full breadth of scenarios ACF is expected to meet. 
+
+The vast majority of [[ACF Basic Training]] courses are carried out on Currahee, alongside numerous more advanced programmes, with [[Terra]] herself a very distant second.  

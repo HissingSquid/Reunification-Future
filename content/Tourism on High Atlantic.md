@@ -1,0 +1,9 @@
+A typical tourist experience on [[High Atlantic]] can be obtained extremely cheaply, owing both to the huge number of people flying in (allowing cost effective use of [[Interstellar Heavy Starliners|Interstellar Heavies]]) and the world's very low commodity prices. This makes it very popular with the lowest common denominator.  
+
+Friend groups tend toward the cities, for obvious reasons, while the resorts and [[Safariland|Safarilands]] are tailored towards honeymoons or family experiences. Others prefer the moon [[Highroller]], which has been transformed into a single enormous casino.  
+
+The people of other worlds benefit greatly from High Atlantic as a cheap tourist destination that caters to all the most basic and carnal pleasures. The holiday package companies make enormous amounts of money off the volume of footfall this appeal generates, and the mysterious businessmen who occupy permanent seats on the [[Tourist Board]] are thought to be among the wealthiest individuals in the galaxy.  
+
+The locals, by contrast, suffer greatly. They live in poverty on the fringes of the cities, forced into exploitative contracts by holiday companies and hamstrung by an economy orientated entirely towards the tourist. Drugs and alcohol are cheap, but necessities like food are extremely expensive when you aren't eating all-inclusive meals at your package hotel. Property prices are also extreme, and many are forced into exploitative leases contingent on taking a job with near-untenable working conditions.  
+
+Most seek relief in the plentiful substances that abound throughout the world. Others turn to the thriving underground music scene, which is inevitably closely tied to the [[High Atlantic Streetgangs|streetgangs]] riddling the cities. Yet others choose the true ganger life, joining one of the outright criminal groups that look to rob, ransom, and exploit the many naïve tourists wandering the streets. 

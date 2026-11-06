@@ -1,0 +1,3 @@
+Halar is a [[Lohkan]] mercenary based in [[Neo-Atlantica]], best known for his albino-white skin and the horrific wounds inflicted by his signature [[Flechette Cannon]]. He is a cruel and savage fighter, totally lacking in empathy and obsessed only with material gain, having a particular preference for silver jewellery and rare meats. 
+
+He flits between gangs regularly: while his services are highly desirable, they are also incredibly expensive and few have the means or the will to keep him around for long. While available to a given organisation, their rivals will be rightly cautious about incurring his wrath. 

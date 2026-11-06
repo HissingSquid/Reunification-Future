@@ -1,0 +1,3 @@
+Molsher is a human [[Razors|Razor]] working for the [[Ghosts of Cain]] in [[Neo-Atlantica]]. Thanks to his initiative and dependability he rose quickly through the ranks to become [[JT]]'s right-hand following the departure of [[Felix Geltz]]. 
+
+A street urchin with no surname, Molsher has proven to be a reliable leader in the field and a competent fighter, though he is by no means one of the city's premier enforcers. Still, his qualities are exactly those needed in a gang like the Ghosts, which has always relied on a more careful and indirect approach to overcome significantly stronger adversaries. 

@@ -1,0 +1,7 @@
+Relay Stations are an important component of [[Otherlight Communication]] Networks. Their primary role is to push transmissions deeper into [[Otherlight]], thereby increasing the speed of communication when sending messages across deep space. In this way, they act as the spinal 'motorway' of a network, performing the long-haul leg of a journey before [[Receiver Buoys]] take over for the final, local stint of the transmission. 
+
+Older relay stations work by monitoring one or more pre-meditated frequencies and injecting high-energy bursts immediately before and after each passing communication, forcing it deeper into Otherlight. The final relay a message will pass performs the same process but with different encoding to instead pull it shallower, so it can be read by the receiver buoy. 
+
+More advanced relay stations are often designed to enable greater network flexibility, gaining the additional capability to forward, redirect, and directly address incoming messages. This lets ships with high-powered communicators bypass receiver buoys, speeding up communications by solely using the deeper-level parts of the network. However, it also requires a much more complex station: instead of just monitoring frequencies, it must receive, process, and re-transmit incoming messages, a slower and more energy-intensive process. 
+
+Deep-space relays therefore tend to use the older design even when newly-built, with this type of relay now colloquially referred to as a 'booster'. 

@@ -1,0 +1,5 @@
+Brokers, also known as Information Brokers, are individuals who participate in the buying and selling of data on the free market. While this sometimes occurs within a formalised framework, such as the [[High Atlantic Information Exchange]], it is commonly a much more disparate undertaking, involving scrounging together information and obtaining new datasets from all manner of sources. 
+
+Brokers are highly valued by both private individuals and governments, while [[The Nightwatch]] also often relies heavily on their services; it is rare that a Watchman will not have a skilled Broker on their crew. 
+
+It is true that many Brokers are criminals, but there are plenty more who operate in far more official capacities. Many governments have Brokers on their payroll, and many other government jobs are Brokers in all but name. Indeed, the analysts of [[Alliance Intelligence Services]] are often former Brokers, or else very similar in both capabilities and practice.  
