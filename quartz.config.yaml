@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: hissingsquid.github.io/reunification-future
+  baseUrl: reunification-future.pages.dev
   ignorePatterns:
     - private
     - templates
